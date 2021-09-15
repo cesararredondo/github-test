@@ -1,5 +1,3 @@
-# Example Repository for github training
-this is a sample repo, Hello earth planet!
+# Example for testing
 
-
- 
+this is a good example about how to break things. hello Cesar Arredondo.
